@@ -7,15 +7,13 @@ tags:
 ---
 
 # Introduction
+<p align="center">
+<img src="https://evolution-x.org/assets/img/icon.png" width="100" height="100">
+</p>
 
-**Welcome to [Evolution X Wiki](https://wiki.evolution-x.org)**
+**Welcome to the [Evolution X Wiki](https://wiki.evolution-x.org)**
 
-This wiki is for **Project Evolution X**.
-
-Let's get started!
-
-**Here's our basic information you might not know of.**
-
+**Here's some of our basic information that you might not know of:**
 * **Project Evolution X** was founded on the *3rd of March, 2019*
 * **Founded by** *Jose Antonio Huab*
 * **Current Team Status:**
