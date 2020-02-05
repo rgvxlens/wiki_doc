@@ -16,7 +16,7 @@ Let's get started!
 
 **Here's our basic information you might not know of.**
 
-* **Project Evolution X** was founded on the *3rd of March, 2019*
+* **Project Evolution X** is founded on *3rd March 2019*
 * **Founded by** *Jose Antonio Huab*
 * **Current Team Status:**
   * **Jose Antonio Huab** (Stallix, Joey Huab) - Founder, Lead Developer
